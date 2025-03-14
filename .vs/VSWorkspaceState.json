@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Fundamentals",
+    "\\Fundamentals\\Calculator",
+    "\\Fundamentals\\Loops"
   ],
-  "SelectedNode": "\\C:\\Users\\laboratorio\\Source\\Repos\\c-sharp-practice",
+  "SelectedNode": "\\Fundamentals\\Calculator\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

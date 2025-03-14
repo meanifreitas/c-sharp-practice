@@ -29,6 +29,6 @@ switch (op)
         Console.WriteLine(n1 + " / " + n2 + " = " + result);
         break;
     default:
-        Console.WriteLine("error");
+        Console.WriteLine("Invalid operation");
         break;
 }
